@@ -1,5 +1,5 @@
 # Door-Opener-DAVE-
-##### **D**evice **A**utomatically **V**erifying **E**ntry
+**D**evice **A**utomatically **V**erifying **E**ntry
 
 A project for my microprocessors class in FA17
 The code was written for use on and Arduino Uno.
